@@ -5,6 +5,7 @@ cocophp v2
 
 整个站点目录如下：
 
+```
 /---
    |__  applications  // api业务逻辑
    |__  config        // 配置文件
@@ -19,4 +20,4 @@ cocophp v2
    |__  request       // 请求拦截器
    |__  response      // 响应拦截器，用于拦截返回数据。
    |__  runtime       // 运行时的一些缓存数据。
-
+```
